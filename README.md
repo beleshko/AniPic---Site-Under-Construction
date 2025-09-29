@@ -1,4 +1,4 @@
-# AniPic - Site Under Construction
+# Site Under Construction
 
 ![404 Preview](screenshot-desktop.png)
 
