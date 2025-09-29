@@ -1,5 +1,7 @@
 # AniPic - Site Under Construction
 
+![404 Preview](screenshot-desktop.png)
+
 🚀 A beautiful "Under Construction" page built with **Material Design 3**.
 
 ## Features
